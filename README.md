@@ -24,7 +24,7 @@
 <div> 
   <a href="https://www.youtube.com/channel/UCPP33YXs6-BJe3VRTP9gflA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
- <!-->
+ <!--
 
   ![Snake animation](https://github.com/inacioc-alves/inacioc-alves/blob/output/github-contribution-grid-snake.svg)
 
